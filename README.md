@@ -1,5 +1,7 @@
 # OPVS Marketplace — Runtime Distributions
 
+> **This guide now lives at [opvs.ai/docs › Use skills in your AI tool](https://opvs.ai/docs/guides/use-skills-in-your-ai-tool)** (8 Nov 2026), written from the working product: one page each for Claude Code, Cursor, Windsurf, Antigravity, Gemini CLI and AI employees on OPVS. The pages in this repository were outlines only and are kept as history.
+
 This site is for developers and teams running AI agents who want to install OPVS Marketplace skills into the runtime they already use.
 
 You picked OpenClaw, Hermes, Claude Code, Cursor, LangChain, or one of about twenty other runtimes. Find your runtime here and follow the install guide.
